@@ -1,0 +1,24 @@
+HoNPurple Adium Plugin
+======================
+This is the source code used to build the Adium plugin to support HoNPurple.  
+Actually it is a wrapper for the HoNPurple source.
+  
+  
+## Official HoNPurple Source Page - By [LC]theli
+[http://code.google.com/p/honpurple/](http://code.google.com/p/honpurple/)
+  
+  
+## Official Support Thread
+[http://forums.heroesofnewerth.com/showthread.php?t=31511](http://forums.heroesofnewerth.com/showthread.php?t=31511)
+  
+  
+## Instructions to build
+1. Fill the contents of adium-1.4 source folder (download the source from Adium page).
+2. Compile Adium: 
+	* Open Adium.codeproj -> top menu -> Build -> Build
+	* **OR**
+	* $ make adium
+3. Then open
+	* honpurple/osx/PurpleHoN/PurpleHoN.xcodeproj
+	* Build it, and you shall have the Plugin built under build/Debug/ 
+4. You might want to check if the /src/ code here is the latest one. 

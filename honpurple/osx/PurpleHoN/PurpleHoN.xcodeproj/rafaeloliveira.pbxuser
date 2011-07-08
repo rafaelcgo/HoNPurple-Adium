@@ -1,0 +1,413 @@
+// !$*UTF8*$!
+{
+	00292FB31262113D00BEA057 /* hon.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 15678}}";
+			sepNavSelRange = "{2755, 0}";
+			sepNavVisRange = "{4721, 1438}";
+		};
+	};
+	00292FB41262113D00BEA057 /* hon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1534}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 1588}";
+		};
+	};
+	00292FB51262113D00BEA057 /* honprpl.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 24102}}";
+			sepNavSelRange = "{22328, 0}";
+			sepNavVisRange = "{29489, 1640}";
+		};
+	};
+	00292FB61262113D00BEA057 /* honprpl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1235}}";
+			sepNavSelRange = "{1024, 15}";
+			sepNavVisRange = "{57, 1169}";
+		};
+	};
+	00292FB71262113D00BEA057 /* packet_id.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1053}}";
+			sepNavSelRange = "{1683, 0}";
+			sepNavVisRange = "{1266, 1643}";
+		};
+	};
+	00292FB81262113D00BEA057 /* utils.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 4433}}";
+			sepNavSelRange = "{4423, 28}";
+			sepNavVisRange = "{6950, 918}";
+		};
+	};
+	00292FB91262113D00BEA057 /* utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 576}}";
+			sepNavSelRange = "{512, 0}";
+			sepNavVisRange = "{0, 790}";
+			sepNavWindowFrame = "{{15, 438}, {996, 585}}";
+		};
+	};
+	00292FCF1262119900BEA057 /* HoNWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 576}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	00292FD01262119900BEA057 /* HoNWrapper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 429}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{156, 391}";
+		};
+	};
+	00292FD41262122E00BEA057 /* PurpleHoNService.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 576}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	00292FD51262122E00BEA057 /* PurpleHoNService.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 1924}}";
+			sepNavSelRange = "{436, 218}";
+			sepNavVisRange = "{0, 955}";
+		};
+	};
+	00292FD71262134600BEA057 /* PurpleHoNAccount.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 576}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{0, 432}";
+		};
+	};
+	00292FD81262134600BEA057 /* PurpleHoNAccount.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1095, 2457}}";
+			sepNavSelRange = "{2911, 0}";
+			sepNavVisRange = "{2398, 528}";
+		};
+	};
+	00293221126230BC00BEA057 /* PurpleHoN_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 491}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 348}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8D57630D048677EA00EA77CD /* PurpleHoN */;
+		addToTargets = (
+			8D57630D048677EA00EA77CD /* PurpleHoN */,
+		);
+		codeSenseManager = 27DD1C76131C500D0086A7E6 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					849,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331764829;
+			PBXWorkspaceStateSaveDate = 331764829;
+		};
+		perUserProjectItems = {
+			2790F10E13C6783D00897D70 /* PBXTextBookmark */ = 2790F10E13C6783D00897D70 /* PBXTextBookmark */;
+			2790F10F13C6783D00897D70 /* PBXTextBookmark */ = 2790F10F13C6783D00897D70 /* PBXTextBookmark */;
+			2790F11413C6783D00897D70 /* PBXTextBookmark */ = 2790F11413C6783D00897D70 /* PBXTextBookmark */;
+			2790F11913C6783D00897D70 /* PBXTextBookmark */ = 2790F11913C6783D00897D70 /* PBXTextBookmark */;
+			2790F12113C679C000897D70 /* PBXTextBookmark */ = 2790F12113C679C000897D70 /* PBXTextBookmark */;
+			2790F12213C679C000897D70 /* PBXTextBookmark */ = 2790F12213C679C000897D70 /* PBXTextBookmark */;
+			2790F12313C679C000897D70 /* PBXTextBookmark */ = 2790F12313C679C000897D70 /* PBXTextBookmark */;
+			2790F12413C679C000897D70 /* PBXTextBookmark */ = 2790F12413C679C000897D70 /* PBXTextBookmark */;
+			2790F12513C679C000897D70 /* PBXTextBookmark */ = 2790F12513C679C000897D70 /* PBXTextBookmark */;
+			2790F12613C679C000897D70 /* PBXTextBookmark */ = 2790F12613C679C000897D70 /* PBXTextBookmark */;
+			2790F12713C679C000897D70 /* PBXTextBookmark */ = 2790F12713C679C000897D70 /* PBXTextBookmark */;
+			2790F12813C679C000897D70 /* PBXTextBookmark */ = 2790F12813C679C000897D70 /* PBXTextBookmark */;
+			2790F12913C679C000897D70 /* PBXTextBookmark */ = 2790F12913C679C000897D70 /* PBXTextBookmark */;
+			2790F12A13C679C000897D70 /* PBXTextBookmark */ = 2790F12A13C679C000897D70 /* PBXTextBookmark */;
+			2790F12B13C679C000897D70 /* PBXTextBookmark */ = 2790F12B13C679C000897D70 /* PBXTextBookmark */;
+			2790F13013C67CF300897D70 /* PBXTextBookmark */ = 2790F13013C67CF300897D70 /* PBXTextBookmark */;
+			27DD1DD6131C590A0086A7E6 /* PBXBookmark */ = 27DD1DD6131C590A0086A7E6 /* PBXBookmark */;
+			27E77E0313AC636700A3070A /* PBXTextBookmark */ = 27E77E0313AC636700A3070A /* PBXTextBookmark */;
+			27E77E0413AC636700A3070A /* PlistBookmark */ = 27E77E0413AC636700A3070A /* PlistBookmark */;
+			27E77EC513AC81A500A3070A /* PBXTextBookmark */ = 27E77EC513AC81A500A3070A /* PBXTextBookmark */;
+			27E77F1713ADC57600A3070A /* PBXTextBookmark */ = 27E77F1713ADC57600A3070A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27DD1C75131C500D0086A7E6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2790F10E13C6783D00897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FCF1262119900BEA057 /* HoNWrapper.h */;
+		name = "HoNWrapper.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	2790F10F13C6783D00897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FD01262119900BEA057 /* HoNWrapper.m */;
+		name = "HoNWrapper.m: 29";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 0;
+	};
+	2790F11413C6783D00897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27E77DCE13AC586600A3070A /* PurpleHoNAccountViewController.h */;
+		name = "PurpleHoNAccountViewController.h: 16";
+		rLen = 6;
+		rLoc = 439;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	2790F11913C6783D00897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FD71262134600BEA057 /* PurpleHoNAccount.h */;
+		name = "PurpleHoNAccount.h: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 432;
+		vrLoc = 0;
+	};
+	2790F12113C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB61262113D00BEA057 /* honprpl.h */;
+		name = "honprpl.h: 40";
+		rLen = 15;
+		rLoc = 1024;
+		rType = 0;
+		vrLen = 1169;
+		vrLoc = 57;
+	};
+	2790F12213C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB71262113D00BEA057 /* packet_id.h */;
+		name = "packet_id.h: 45";
+		rLen = 0;
+		rLoc = 1683;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1266;
+	};
+	2790F12313C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB81262113D00BEA057 /* utils.c */;
+		name = "utils.c: 192";
+		rLen = 28;
+		rLoc = 4423;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 6950;
+	};
+	2790F12413C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB91262113D00BEA057 /* utils.h */;
+		name = "utils.h: 23";
+		rLen = 0;
+		rLoc = 512;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 0;
+	};
+	2790F12513C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB41262113D00BEA057 /* hon.h */;
+		name = "hon.h: 18";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 0;
+	};
+	2790F12613C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB31262113D00BEA057 /* hon.c */;
+		name = "hon.c: 99";
+		rLen = 0;
+		rLoc = 2755;
+		rType = 0;
+		vrLen = 1438;
+		vrLoc = 4721;
+	};
+	2790F12713C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FD81262134600BEA057 /* PurpleHoNAccount.m */;
+		name = "PurpleHoNAccount.m: 114";
+		rLen = 0;
+		rLoc = 2881;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 2075;
+	};
+	2790F12813C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FD51262122E00BEA057 /* PurpleHoNService.m */;
+		name = "PurpleHoNService.m: 20";
+		rLen = 218;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 0;
+	};
+	2790F12913C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FD41262122E00BEA057 /* PurpleHoNService.h */;
+		name = "PurpleHoNService.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	2790F12A13C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00292FB51262113D00BEA057 /* honprpl.c */;
+		name = "honprpl.c: 740";
+		rLen = 0;
+		rLoc = 22328;
+		rType = 0;
+		vrLen = 1640;
+		vrLoc = 29489;
+	};
+	2790F12B13C679C000897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27E77DCF13AC586600A3070A /* PurpleHoNAccountViewController.m */;
+		name = "PurpleHoNAccountViewController.m: 49";
+		rLen = 17;
+		rLoc = 1778;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 402;
+	};
+	2790F13013C67CF300897D70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27E77DCF13AC586600A3070A /* PurpleHoNAccountViewController.m */;
+		name = "PurpleHoNAccountViewController.m: 28";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 1634;
+		vrLoc = 513;
+	};
+	27DD1C75131C500D0086A7E6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27DD1C76131C500D0086A7E6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27DD1DD6131C590A0086A7E6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 00292FAD12620F7000BEA057 /* hon-small.png */;
+	};
+	27E77DCE13AC586600A3070A /* PurpleHoNAccountViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 576}}";
+			sepNavSelRange = "{439, 6}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	27E77DCF13AC586600A3070A /* PurpleHoNAccountViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 858}}";
+			sepNavSelRange = "{675, 0}";
+			sepNavVisRange = "{513, 1634}";
+		};
+	};
+	27E77E0313AC636700A3070A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00293221126230BC00BEA057 /* PurpleHoN_Prefix.pch */;
+		name = "PurpleHoN_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	27E77E0413AC636700A3070A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D576317048677EA00EA77CD /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDocumentTypes,
+		);
+		name = "/Users/rafaeloliveira/Development/Adium Plugin/honpurple/osx/PurpleHoN/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	27E77EC513AC81A500A3070A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27E77EC613AC81A500A3070A /* AIAccountViewController.h */;
+		name = "AIAccountViewController.h: 56";
+		rLen = 26;
+		rLoc = 3137;
+		rType = 0;
+		vrLen = 2267;
+		vrLoc = 1194;
+	};
+	27E77EC613AC81A500A3070A /* AIAccountViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AIAccountViewController.h;
+		path = "/Users/rafaeloliveira/Development/Adium Plugin/adium-1.4/build/Debug/Adium.framework/Versions/A/Headers/AIAccountViewController.h";
+		sourceTree = "<absolute>";
+	};
+	27E77F1713ADC57600A3070A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27E77F1813ADC57600A3070A /* connection.h */;
+		name = "connection.h: 31";
+		rLen = 17;
+		rLoc = 1122;
+		rType = 0;
+		vrLen = 1922;
+		vrLoc = 8136;
+	};
+	27E77F1813ADC57600A3070A /* connection.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = connection.h;
+		path = "/Users/rafaeloliveira/Development/Adium Plugin/adium-1.4/Frameworks/libpurple.framework/Versions/0/Headers/connection.h";
+		sourceTree = "<absolute>";
+	};
+	8D57630D048677EA00EA77CD /* PurpleHoN */ = {
+		activeExec = 0;
+	};
+}
